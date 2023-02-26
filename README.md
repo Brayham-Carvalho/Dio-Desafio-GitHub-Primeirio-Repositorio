@@ -6,4 +6,4 @@
 # Dio-Desafio-GitHub-Primeirio-Repositorio 
 ### Desafio de Projeto GIt/GitHub.
 
-Neste repositório estarão arquivos, códigos, anotações do Bootcamp realizado na DIO. Todo o meu progresso neste curso poderá ser visualizado através da tarefas, desafios de projeto entre outros.
+Neste repositório estarão arquivos, códigos, anotações do Bootcamp realizado na DIO. Todo o meu progresso inicial neste curso poderá ser visualizado através da tarefas, desafios de projeto entre outros.
